@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { font-family: 'DM Sans', sans-serif; background: #080b12; }
+  h1, h2, h3, h4, h5 { font-family: 'Space Grotesk', sans-serif; }
+}
+
+@layer components {
+  .card {
+    @apply bg-surface-2 border border-surface-4 rounded-xl p-5;
+  }
+  .btn-primary {
+    @apply bg-accent-cyan text-surface-0 font-semibold font-display
+           px-6 py-2.5 rounded-lg hover:brightness-110 active:scale-95
+           transition-all duration-150 disabled:opacity-40 disabled:cursor-not-allowed;
+  }
+  .btn-ghost {
+    @apply border border-surface-4 text-slate-300 font-display
+           px-5 py-2.5 rounded-lg hover:border-accent-cyan hover:text-accent-cyan
+           transition-all duration-150;
+  }
+  .badge-ok    { @apply bg-emerald-900/50 text-emerald-400 border border-emerald-700; }
+  .badge-low   { @apply bg-amber-900/50  text-amber-400  border border-amber-700; }
+  .badge-oos   { @apply bg-red-900/50    text-red-400    border border-red-700; }
+  .kpi-card    { @apply card flex flex-col gap-1 hover:border-accent-cyan/40 transition-colors; }
+  .section-title {
+    @apply font-display font-semibold text-lg text-white mb-4;
+  }
+}
+
+/* Scan-line animation for CCTV feel */
+@keyframes scanline {
+  0%   { transform: translateY(-100%); }
+  100% { transform: translateY(100vh); }
+}
+.scanline::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: linear-gradient(transparent 50%, rgba(0,229,200,0.03) 50%);
+  background-size: 100% 4px;
+  pointer-events: none;
+  z-index: 9999;
+}
+
+/* Subtle grid overlay */
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(0,229,200,0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,229,200,0.04) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+/* Progress bar pulse */
+@keyframes progress-pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.6; }
+}
+.progress-pulse { animation: progress-pulse 1.5s ease-in-out infinite; }
+
+/* Fade-in */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-up { animation: fadeUp 0.4s ease both; }

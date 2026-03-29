@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# ML / CV — same as notebook
+ultralytics>=8.2.0
+torch
+torchvision
+opencv-python-headless>=4.8.0
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+Pillow
+tqdm

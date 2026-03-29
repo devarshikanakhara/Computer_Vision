@@ -1,0 +1,2 @@
+precision,recall,f1_score,map_at_0_5,avg_fps,total_frames,avg_dets_frame,total_detections,tp,fp,fn,customer_visits,total_items_taken
+0.9444,0.9444,0.9444,0.892,1.77,450,19.2,8633,17,1,1,1,11
