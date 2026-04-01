@@ -1,0 +1,1256 @@
+[
+  {
+    "id": 1,
+    "type": "truth",
+    "level": 1,
+    "text": "What was your first impression of me?"
+  },
+  {
+    "id": 2,
+    "type": "truth",
+    "level": 1,
+    "text": "What is your favorite memory of us together?"
+  },
+  {
+    "id": 3,
+    "type": "truth",
+    "level": 1,
+    "text": "What is one thing you love most about our relationship?"
+  },
+  {
+    "id": 4,
+    "type": "truth",
+    "level": 1,
+    "text": "Describe our first date in three words."
+  },
+  {
+    "id": 5,
+    "type": "truth",
+    "level": 1,
+    "text": "What is the most romantic thing I've ever done for you?"
+  },
+  {
+    "id": 6,
+    "type": "truth",
+    "level": 1,
+    "text": "What's a small habit of mine that you find endearing?"
+  },
+  {
+    "id": 7,
+    "type": "truth",
+    "level": 1,
+    "text": "If we could travel anywhere together right now, where would it be?"
+  },
+  {
+    "id": 8,
+    "type": "truth",
+    "level": 1,
+    "text": "What's the best compliment you've ever received from me?"
+  },
+  {
+    "id": 9,
+    "type": "truth",
+    "level": 1,
+    "text": "What's one song that reminds you of us?"
+  },
+  {
+    "id": 10,
+    "type": "truth",
+    "level": 1,
+    "text": "What's a movie title that describes our love story?"
+  },
+  {
+    "id": 11,
+    "type": "truth",
+    "level": 1,
+    "text": "What is your favorite physical feature of mine?"
+  },
+  {
+    "id": 12,
+    "type": "truth",
+    "level": 1,
+    "text": "What is something you're looking forward to doing with me?"
+  },
+  {
+    "id": 13,
+    "type": "truth",
+    "level": 1,
+    "text": "When did you first realize you had feelings for me?"
+  },
+  {
+    "id": 14,
+    "type": "truth",
+    "level": 1,
+    "text": "What's your favorite way to spend a lazy Sunday with me?"
+  },
+  {
+    "id": 15,
+    "type": "truth",
+    "level": 1,
+    "text": "What's a nickname you've never told me you have for me?"
+  },
+  {
+    "id": 16,
+    "type": "truth",
+    "level": 1,
+    "text": "What's the most thoughtful gift I could give you?"
+  },
+  {
+    "id": 17,
+    "type": "truth",
+    "level": 1,
+    "text": "What's one thing you want us to achieve together this year?"
+  },
+  {
+    "id": 18,
+    "type": "truth",
+    "level": 1,
+    "text": "What's a dream you've had about us?"
+  },
+  {
+    "id": 19,
+    "type": "truth",
+    "level": 1,
+    "text": "What is the kindest thing I've ever said to you?"
+  },
+  {
+    "id": 20,
+    "type": "truth",
+    "level": 1,
+    "text": "What's your favorite photo of us two?"
+  },
+  {
+    "id": 21,
+    "type": "truth",
+    "level": 1,
+    "text": "What's a scent that always reminds you of me?"
+  },
+  {
+    "id": 22,
+    "type": "truth",
+    "level": 1,
+    "text": "What's your favorite place we've visited together?"
+  },
+  {
+    "id": 23,
+    "type": "truth",
+    "level": 1,
+    "text": "What's the best advice you've ever given me (or I've given you)?"
+  },
+  {
+    "id": 24,
+    "type": "truth",
+    "level": 1,
+    "text": "What's a tradition you'd like us to start?"
+  },
+  {
+    "id": 25,
+    "type": "truth",
+    "level": 1,
+    "text": "What's something you're proud of in our relationship?"
+  },
+  {
+    "id": 26,
+    "type": "truth",
+    "level": 1,
+    "text": "Which of my personality traits do you admire most?"
+  },
+  {
+    "id": 27,
+    "type": "truth",
+    "level": 1,
+    "text": "What's your favorite 'insider' joke we share?"
+  },
+  {
+    "id": 28,
+    "type": "truth",
+    "level": 1,
+    "text": "What's one question you've always wanted to ask me but haven't?"
+  },
+  {
+    "id": 29,
+    "type": "truth",
+    "level": 1,
+    "text": "What's the funniest thing we've done together?"
+  },
+  {
+    "id": 30,
+    "type": "truth",
+    "level": 1,
+    "text": "How have I changed your life for the better?"
+  },
+  {
+    "id": 31,
+    "type": "truth",
+    "level": 1,
+    "text": "What's the most 'us' thing about us?"
+  },
+  {
+    "id": 32,
+    "type": "truth",
+    "level": 1,
+    "text": "What's a skill or hobby you'd like to learn together?"
+  },
+  {
+    "id": 33,
+    "type": "truth",
+    "level": 1,
+    "text": "What is your favorite 'low-key' date we've had?"
+  },
+  {
+    "id": 34,
+    "type": "truth",
+    "level": 1,
+    "text": "What's my most attractive non-physical trait?"
+  },
+  {
+    "id": 35,
+    "type": "truth",
+    "level": 1,
+    "text": "If we were characters in a book, what would our story be?"
+  },
+  {
+    "id": 36,
+    "type": "truth",
+    "level": 2,
+    "text": "What's the most attractive thing about my personality?"
+  },
+  {
+    "id": 37,
+    "type": "truth",
+    "level": 2,
+    "text": "What was the exact moment you knew you wanted to be with me?"
+  },
+  {
+    "id": 38,
+    "type": "truth",
+    "level": 2,
+    "text": "What's a secret fantasy of ours you'd like to fulfill?"
+  },
+  {
+    "id": 39,
+    "type": "truth",
+    "level": 2,
+    "text": "What's the most 'experimental' thing you'd want to try together?"
+  },
+  {
+    "id": 40,
+    "type": "truth",
+    "level": 2,
+    "text": "What's a text I sent you that you've kept or re-read?"
+  },
+  {
+    "id": 41,
+    "type": "truth",
+    "level": 2,
+    "text": "What's the most romantic setting you can imagine for us?"
+  },
+  {
+    "id": 42,
+    "type": "truth",
+    "level": 2,
+    "text": "What's a physical touch of mine that gives you butterflies?"
+  },
+  {
+    "id": 43,
+    "type": "truth",
+    "level": 2,
+    "text": "What's something I do that makes you blush?"
+  },
+  {
+    "id": 44,
+    "type": "truth",
+    "level": 2,
+    "text": "What's your favorite outfit that I wear?"
+  },
+  {
+    "id": 45,
+    "type": "truth",
+    "level": 2,
+    "text": "Describe your ideal romantic getaway for two."
+  },
+  {
+    "id": 46,
+    "type": "truth",
+    "level": 2,
+    "text": "What's the most spontaneous thing you've ever done for love?"
+  },
+  {
+    "id": 47,
+    "type": "truth",
+    "level": 2,
+    "text": "What's a topic you're really passionate about that we haven't discussed much?"
+  },
+  {
+    "id": 48,
+    "type": "truth",
+    "level": 2,
+    "text": "What's your favorite compliment to receive from me?"
+  },
+  {
+    "id": 49,
+    "type": "truth",
+    "level": 2,
+    "text": "What's one thing you find incredibly sexy about me?"
+  },
+  {
+    "id": 50,
+    "type": "truth",
+    "level": 2,
+    "text": "What's a dream of yours that I'm in?"
+  },
+  {
+    "id": 51,
+    "type": "truth",
+    "level": 2,
+    "text": "What's the most flirtatious thing I've ever done?"
+  },
+  {
+    "id": 52,
+    "type": "truth",
+    "level": 2,
+    "text": "What's a book or movie that reminds you of our passion?"
+  },
+  {
+    "id": 53,
+    "type": "truth",
+    "level": 2,
+    "text": "What's your favorite way to wake up next to me?"
+  },
+  {
+    "id": 54,
+    "type": "truth",
+    "level": 2,
+    "text": "What's something you've wanted to tell me but were too shy to?"
+  },
+  {
+    "id": 55,
+    "type": "truth",
+    "level": 2,
+    "text": "What's the most romantic place you've ever been (or want to go)?"
+  },
+  {
+    "id": 56,
+    "type": "truth",
+    "level": 2,
+    "text": "What's a trait of mine that you initially found challenging but now love?"
+  },
+  {
+    "id": 57,
+    "type": "truth",
+    "level": 2,
+    "text": "What's your favorite way to show me affection?"
+  },
+  {
+    "id": 58,
+    "type": "truth",
+    "level": 2,
+    "text": "What's the most meaningful conversation we've ever had?"
+  },
+  {
+    "id": 59,
+    "type": "truth",
+    "level": 2,
+    "text": "What's a memory of us that always makes you smile?"
+  },
+  {
+    "id": 60,
+    "type": "truth",
+    "level": 2,
+    "text": "What's your favorite thing about how we communicate?"
+  },
+  {
+    "id": 61,
+    "type": "truth",
+    "level": 2,
+    "text": "What's one way I've inspired you?"
+  },
+  {
+    "id": 62,
+    "type": "truth",
+    "level": 2,
+    "text": "What's something we've done that felt like a major milestone?"
+  },
+  {
+    "id": 63,
+    "type": "truth",
+    "level": 2,
+    "text": "What's one goal you have for us as a couple?"
+  },
+  {
+    "id": 64,
+    "type": "truth",
+    "level": 2,
+    "text": "What's your favorite thing to do for me?"
+  },
+  {
+    "id": 65,
+    "type": "truth",
+    "level": 2,
+    "text": "What's a surprise you've always wanted to give me?"
+  },
+  {
+    "id": 66,
+    "type": "truth",
+    "level": 2,
+    "text": "What's your favorite thing about our 'spark'?"
+  },
+  {
+    "id": 67,
+    "type": "truth",
+    "level": 2,
+    "text": "What's a way I make you feel supported?"
+  },
+  {
+    "id": 68,
+    "type": "truth",
+    "level": 2,
+    "text": "What's one thing you want more of in our relationship?"
+  },
+  {
+    "id": 69,
+    "type": "truth",
+    "level": 2,
+    "text": "What's the first thing you notice when I enter a room?"
+  },
+  {
+    "id": 70,
+    "type": "truth",
+    "level": 2,
+    "text": "What's a 'guilty pleasure' you enjoy sharing with me?"
+  },
+  {
+    "id": 71,
+    "type": "truth",
+    "level": 3,
+    "text": "What is your deepest fear about our relationship?"
+  },
+  {
+    "id": 72,
+    "type": "truth",
+    "level": 3,
+    "text": "What's a secret fantasy you've never shared with anyone?"
+  },
+  {
+    "id": 73,
+    "type": "truth",
+    "level": 3,
+    "text": "If we could change one thing about our relationship, what would it be?"
+  },
+  {
+    "id": 74,
+    "type": "truth",
+    "level": 3,
+    "text": "What's a difficult conversation we've been avoiding?"
+  },
+  {
+    "id": 75,
+    "type": "truth",
+    "level": 3,
+    "text": "What is the most vulnerable moment we've shared?"
+  },
+  {
+    "id": 76,
+    "type": "truth",
+    "level": 3,
+    "text": "What's one thing you'd like to work on together for our future?"
+  },
+  {
+    "id": 77,
+    "type": "truth",
+    "level": 3,
+    "text": "How do you feel our relationship has changed since we first met?"
+  },
+  {
+    "id": 78,
+    "type": "truth",
+    "level": 3,
+    "text": "What's something you've struggled to communicate to me?"
+  },
+  {
+    "id": 79,
+    "type": "truth",
+    "level": 3,
+    "text": "What's your biggest dream for our life together in 10 years?"
+  },
+  {
+    "id": 80,
+    "type": "truth",
+    "level": 3,
+    "text": "What's a recurring dream or thought you have about us?"
+  },
+  {
+    "id": 81,
+    "type": "truth",
+    "level": 3,
+    "text": "What's one thing you're most grateful for in our connection?"
+  },
+  {
+    "id": 82,
+    "type": "truth",
+    "level": 3,
+    "text": "What's a lesson we've learned together that has stuck with you?"
+  },
+  {
+    "id": 83,
+    "type": "truth",
+    "level": 3,
+    "text": "What's the deepest emotional connection you've ever felt with me?"
+  },
+  {
+    "id": 84,
+    "type": "truth",
+    "level": 3,
+    "text": "What's something you've learned about yourself through our relationship?"
+  },
+  {
+    "id": 85,
+    "type": "truth",
+    "level": 3,
+    "text": "What's one thing you want to make sure we never lose as a couple?"
+  },
+  {
+    "id": 86,
+    "type": "truth",
+    "level": 3,
+    "text": "What's your favorite way we've handled a difficult situation?"
+  },
+  {
+    "id": 87,
+    "type": "truth",
+    "level": 3,
+    "text": "What's something you value most about our trust?"
+  },
+  {
+    "id": 88,
+    "type": "truth",
+    "level": 3,
+    "text": "What's a way I've helped you through a hard time?"
+  },
+  {
+    "id": 89,
+    "type": "truth",
+    "level": 3,
+    "text": "What's one thing you want to deepen in our intimacy?"
+  },
+  {
+    "id": 90,
+    "type": "truth",
+    "level": 3,
+    "text": "What's a conversation that really changed your perspective on us?"
+  },
+  {
+    "id": 91,
+    "type": "truth",
+    "level": 3,
+    "text": "What's the most profound thing you've learned about me?"
+  },
+  {
+    "id": 92,
+    "type": "truth",
+    "level": 3,
+    "text": "What's a way I've shown you a different side of love?"
+  },
+  {
+    "id": 93,
+    "type": "truth",
+    "level": 3,
+    "text": "What's your favorite thing about how we grow together?"
+  },
+  {
+    "id": 94,
+    "type": "truth",
+    "level": 3,
+    "text": "What's one area where you feel we really complement each other?"
+  },
+  {
+    "id": 95,
+    "type": "truth",
+    "level": 3,
+    "text": "What's a way I've made you feel understood like no one else?"
+  },
+  {
+    "id": 96,
+    "type": "truth",
+    "level": 3,
+    "text": "What's your biggest hope for our shared journey?"
+  },
+  {
+    "id": 97,
+    "type": "truth",
+    "level": 3,
+    "text": "What's a way I've made you feel safe to be your true self?"
+  },
+  {
+    "id": 98,
+    "type": "truth",
+    "level": 3,
+    "text": "What's something you've learned about love from being with me?"
+  },
+  {
+    "id": 99,
+    "type": "truth",
+    "level": 3,
+    "text": "One thing you want us to always prioritize?"
+  },
+  {
+    "id": 100,
+    "type": "truth",
+    "level": 3,
+    "text": "What's your favorite thing about how we've built our life so far?"
+  },
+  {
+    "id": 101,
+    "type": "truth",
+    "level": 3,
+    "text": "What's a way I've inspired you to be a better person?"
+  },
+  {
+    "id": 102,
+    "type": "truth",
+    "level": 3,
+    "text": "What's your favorite thing about our long-term vision?"
+  },
+  {
+    "id": 103,
+    "type": "truth",
+    "level": 3,
+    "text": "What's a way I've shown you what 'us' really means?"
+  },
+  {
+    "id": 104,
+    "type": "truth",
+    "level": 3,
+    "text": "What is the most intimate non-sexual moment we've shared?"
+  },
+  {
+    "id": 105,
+    "type": "truth",
+    "level": 3,
+    "text": "How do you define 'home' in our relationship?"
+  },
+  {
+    "id": 106,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a 30-second hug right now."
+  },
+  {
+    "id": 107,
+    "type": "dare",
+    "level": 1,
+    "text": "Send me a sweet text message while we're sitting together."
+  },
+  {
+    "id": 108,
+    "type": "dare",
+    "level": 1,
+    "text": "Whisper something sweet in my ear."
+  },
+  {
+    "id": 109,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a gentle kiss on the forehead."
+  },
+  {
+    "id": 110,
+    "type": "dare",
+    "level": 1,
+    "text": "Draw a small heart on my hand."
+  },
+  {
+    "id": 111,
+    "type": "dare",
+    "level": 1,
+    "text": "Hold my hand for the next two minutes."
+  },
+  {
+    "id": 112,
+    "type": "dare",
+    "level": 1,
+    "text": "Tell me three things you love about me."
+  },
+  {
+    "id": 113,
+    "type": "dare",
+    "level": 1,
+    "text": "Sing a line from our favorite song to me."
+  },
+  {
+    "id": 114,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a 10-second back massage."
+  },
+  {
+    "id": 115,
+    "type": "dare",
+    "level": 1,
+    "text": "Write a 5-word love note on a piece of paper (or napkin)."
+  },
+  {
+    "id": 116,
+    "type": "dare",
+    "level": 1,
+    "text": "Make a funny face to make me laugh."
+  },
+  {
+    "id": 117,
+    "type": "dare",
+    "level": 1,
+    "text": "Dance together for 30 seconds (no music needed)."
+  },
+  {
+    "id": 118,
+    "type": "dare",
+    "level": 1,
+    "text": "Look into my eyes for 10 seconds without blinking."
+  },
+  {
+    "id": 119,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a high-five, but make it romantic."
+  },
+  {
+    "id": 120,
+    "type": "dare",
+    "level": 1,
+    "text": "Perform a 'mini' runway walk for me."
+  },
+  {
+    "id": 121,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a compliment in a fake accent."
+  },
+  {
+    "id": 122,
+    "type": "dare",
+    "level": 1,
+    "text": "Tell me a joke that's so bad it's good."
+  },
+  {
+    "id": 123,
+    "type": "dare",
+    "level": 1,
+    "text": "Show me the last photo you took of us."
+  },
+  {
+    "id": 124,
+    "type": "dare",
+    "level": 1,
+    "text": "Share a favorite quote about love with me."
+  },
+  {
+    "id": 125,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a 'fancy' handshake."
+  },
+  {
+    "id": 126,
+    "type": "dare",
+    "level": 1,
+    "text": "Describe me in only three emojis."
+  },
+  {
+    "id": 127,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a 'gentle' tickle for 5 seconds."
+  },
+  {
+    "id": 128,
+    "type": "dare",
+    "level": 1,
+    "text": "Make a heart shape with your hands."
+  },
+  {
+    "id": 129,
+    "type": "dare",
+    "level": 1,
+    "text": "Tell me one thing you're excited about for tomorrow."
+  },
+  {
+    "id": 130,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a 'butterfly' kiss (eyelashes to cheek)."
+  },
+  {
+    "id": 131,
+    "type": "dare",
+    "level": 1,
+    "text": "Hum a romantic tune for 10 seconds."
+  },
+  {
+    "id": 132,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a 'superstar' wink."
+  },
+  {
+    "id": 133,
+    "type": "dare",
+    "level": 1,
+    "text": "Tell me one way you're going to surprise me soon."
+  },
+  {
+    "id": 134,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a 'reassuring' squeeze on the arm."
+  },
+  {
+    "id": 135,
+    "type": "dare",
+    "level": 1,
+    "text": "Describe your ideal relaxing evening with me."
+  },
+  {
+    "id": 136,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a compliment in a whisper."
+  },
+  {
+    "id": 137,
+    "type": "dare",
+    "level": 1,
+    "text": "Show me your best 'happy dance'."
+  },
+  {
+    "id": 138,
+    "type": "dare",
+    "level": 1,
+    "text": "Give me a 'secret' signal we can use in public."
+  },
+  {
+    "id": 139,
+    "type": "dare",
+    "level": 1,
+    "text": "Take a silly selfie with me right now."
+  },
+  {
+    "id": 140,
+    "type": "dare",
+    "level": 1,
+    "text": "Tell me one thing I'm really good at."
+  },
+  {
+    "id": 141,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a long, passionate kiss."
+  },
+  {
+    "id": 142,
+    "type": "dare",
+    "level": 2,
+    "text": "Describe your favorite 'romantic' outfit I wear, in detail."
+  },
+  {
+    "id": 143,
+    "type": "dare",
+    "level": 2,
+    "text": "Nuzzle my neck for 10 seconds."
+  },
+  {
+    "id": 144,
+    "type": "dare",
+    "level": 2,
+    "text": "Feed me a small bite of whatever is nearby (or pretend to)."
+  },
+  {
+    "id": 145,
+    "type": "dare",
+    "level": 2,
+    "text": "Massage my shoulders for 2 minutes."
+  },
+  {
+    "id": 146,
+    "type": "dare",
+    "level": 2,
+    "text": "Whisper a 'flirty' secret in my ear."
+  },
+  {
+    "id": 147,
+    "type": "dare",
+    "level": 2,
+    "text": "Slow dance with me for one full song."
+  },
+  {
+    "id": 148,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a 5-second intense gaze."
+  },
+  {
+    "id": 149,
+    "type": "dare",
+    "level": 2,
+    "text": "Trace the outline of my lips with your finger."
+  },
+  {
+    "id": 150,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a 'playful' bite on the earlobe."
+  },
+  {
+    "id": 151,
+    "type": "dare",
+    "level": 2,
+    "text": "Describe your favorite 'spark' moment we've had."
+  },
+  {
+    "id": 152,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a foot massage for 2 minutes."
+  },
+  {
+    "id": 153,
+    "type": "dare",
+    "level": 2,
+    "text": "Tell me something I do that you find incredibly attractive."
+  },
+  {
+    "id": 154,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a series of 5 quick kisses on different parts of my face."
+  },
+  {
+    "id": 155,
+    "type": "dare",
+    "level": 2,
+    "text": "Describe your ideal 'stargazing' date with me."
+  },
+  {
+    "id": 156,
+    "type": "dare",
+    "level": 2,
+    "text": "Perform a confession of your feelings in a dramatic way."
+  },
+  {
+    "id": 157,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a 'secret' kiss while someone isn't looking."
+  },
+  {
+    "id": 158,
+    "type": "dare",
+    "level": 2,
+    "text": "Write a 3-line poem about us right now."
+  },
+  {
+    "id": 159,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a 'compliment sandwich' (spicy-sweet-spicy)."
+  },
+  {
+    "id": 160,
+    "type": "dare",
+    "level": 2,
+    "text": "Trace a word on my back and let me guess it."
+  },
+  {
+    "id": 161,
+    "type": "dare",
+    "level": 2,
+    "text": "Describe the most 'romantic' atmosphere you can create."
+  },
+  {
+    "id": 162,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a 10-second 'warm' hug from behind."
+  },
+  {
+    "id": 163,
+    "type": "dare",
+    "level": 2,
+    "text": "Tell me one thing you find 'magnetic' about me."
+  },
+  {
+    "id": 164,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a 'lingering' kiss on the hand."
+  },
+  {
+    "id": 165,
+    "type": "dare",
+    "level": 2,
+    "text": "Share a 'flirty' text you've never sent me."
+  },
+  {
+    "id": 166,
+    "type": "dare",
+    "level": 2,
+    "text": "Describe a 'fantasy' date that involves a bit of adventure."
+  },
+  {
+    "id": 167,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a 'mischievous' grin for 5 seconds."
+  },
+  {
+    "id": 168,
+    "type": "dare",
+    "level": 2,
+    "text": "Tell me one thing you're 'craving' about our time together."
+  },
+  {
+    "id": 169,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a 'sensual' shoulder rub for 1 minute."
+  },
+  {
+    "id": 170,
+    "type": "dare",
+    "level": 2,
+    "text": "Describe your favorite 'intimate' sound of mine."
+  },
+  {
+    "id": 171,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a 'knowing' look across the room."
+  },
+  {
+    "id": 172,
+    "type": "dare",
+    "level": 2,
+    "text": "Tell me one 'daring' thing you want us to do together."
+  },
+  {
+    "id": 173,
+    "type": "dare",
+    "level": 2,
+    "text": "Give me a 'gentle' hair stroke for 1 minute."
+  },
+  {
+    "id": 174,
+    "type": "dare",
+    "level": 2,
+    "text": "Bite your lip while looking at me for 5 seconds."
+  },
+  {
+    "id": 175,
+    "type": "dare",
+    "level": 2,
+    "text": "Tell me which part of my body you find most irresistible."
+  },
+  {
+    "id": 176,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe the most passionate moment we've ever shared."
+  },
+  {
+    "id": 177,
+    "type": "dare",
+    "level": 3,
+    "text": "Give me a 10-second 'intense' kiss without using your hands."
+  },
+  {
+    "id": 178,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe your deepest fantasy that involves us both."
+  },
+  {
+    "id": 179,
+    "type": "dare",
+    "level": 3,
+    "text": "Give me a 'deeply' personal compliment that you've never said."
+  },
+  {
+    "id": 180,
+    "type": "dare",
+    "level": 3,
+    "text": "Massage my scalp for 3 minutes while looking into my eyes."
+  },
+  {
+    "id": 181,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe a moment where you felt a 'soul-deep' connection to me."
+  },
+  {
+    "id": 182,
+    "type": "dare",
+    "level": 3,
+    "text": "Give me a 'meaningful' kiss for 30 seconds."
+  },
+  {
+    "id": 183,
+    "type": "dare",
+    "level": 3,
+    "text": "Share your most 'vulnerable' desire with me right now."
+  },
+  {
+    "id": 184,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe the most 'unforgettable' touch we've ever shared."
+  },
+  {
+    "id": 185,
+    "type": "dare",
+    "level": 3,
+    "text": "Give me a 'protective' hug for 1 minute."
+  },
+  {
+    "id": 186,
+    "type": "dare",
+    "level": 3,
+    "text": "Tell me one 'truth' about your love for me that you've never put into words."
+  },
+  {
+    "id": 187,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe your ideal 'ultimate' night of intimacy with me."
+  },
+  {
+    "id": 188,
+    "type": "dare",
+    "level": 3,
+    "text": "Identify one 'barrier' we've broken through together."
+  },
+  {
+    "id": 189,
+    "type": "dare",
+    "level": 3,
+    "text": "Give me a 'profound' compliment that summarizes our journey."
+  },
+  {
+    "id": 190,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe your favorite 'silent' moment we've had."
+  },
+  {
+    "id": 191,
+    "type": "dare",
+    "level": 3,
+    "text": "Share one thing you've learned about 'us' that has deeply moved you."
+  },
+  {
+    "id": 192,
+    "type": "dare",
+    "level": 3,
+    "text": "Give me an 'all-encompassing' kiss that feels like the first time."
+  },
+  {
+    "id": 193,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe the most 'fearless' thing you've done for our love."
+  },
+  {
+    "id": 194,
+    "type": "dare",
+    "level": 3,
+    "text": "Give me a 'soft' but deep kiss for 20 seconds."
+  },
+  {
+    "id": 195,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe a moment where I made you feel 'completely' seen."
+  },
+  {
+    "id": 196,
+    "type": "dare",
+    "level": 3,
+    "text": "Share one 'vow' or promise you want to make to me right now."
+  },
+  {
+    "id": 197,
+    "type": "dare",
+    "level": 3,
+    "text": "Give me an 'emotive' hug communicating my importance to you."
+  },
+  {
+    "id": 198,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe the 'energy' you feel when we're close together."
+  },
+  {
+    "id": 199,
+    "type": "dare",
+    "level": 3,
+    "text": "Share one thing you've never told anyone else about our connection."
+  },
+  {
+    "id": 200,
+    "type": "dare",
+    "level": 3,
+    "text": "Identify one way I've changed your perspective on 'forever'."
+  },
+  {
+    "id": 201,
+    "type": "dare",
+    "level": 3,
+    "text": "Give me a 'longing' look that speaks for itself."
+  },
+  {
+    "id": 202,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe the most 'profound' piece of our shared history."
+  },
+  {
+    "id": 203,
+    "type": "dare",
+    "level": 3,
+    "text": "Share one way you've felt 'anchored' by me."
+  },
+  {
+    "id": 204,
+    "type": "dare",
+    "level": 3,
+    "text": "Give me a 'healing' touch on my hand or shoulder."
+  },
+  {
+    "id": 205,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe the 'home' you've found in our relationship."
+  },
+  {
+    "id": 206,
+    "type": "dare",
+    "level": 3,
+    "text": "Share one 'discovery' you've made about us that made you happier."
+  },
+  {
+    "id": 207,
+    "type": "dare",
+    "level": 3,
+    "text": "Give me a 'total' embrace for 2 minutes in silence."
+  },
+  {
+    "id": 208,
+    "type": "dare",
+    "level": 3,
+    "text": "Tell me how I've changed your idea of 'passion'."
+  },
+  {
+    "id": 209,
+    "type": "dare",
+    "level": 3,
+    "text": "Describe the first time you felt truly safe with me."
+  }
+]
